@@ -13,6 +13,7 @@
 		007A7635208DE19C009E75F5 /* GTExample.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 007A7633208DE19C009E75F5 /* GTExample.xcdatamodeld */; };
 		007A7637208DE1A0009E75F5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 007A7636208DE1A0009E75F5 /* Assets.xcassets */; };
 		007A763A208DE1A0009E75F5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 007A7638208DE1A0009E75F5 /* LaunchScreen.storyboard */; };
+		007A7642208DFCAC009E75F5 /* MapForItinary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 007A7641208DFCAC009E75F5 /* MapForItinary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		007A7636208DE1A0009E75F5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		007A7639208DE1A0009E75F5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		007A763B208DE1A0009E75F5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		007A7641208DFCAC009E75F5 /* MapForItinary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				007A7638208DE1A0009E75F5 /* LaunchScreen.storyboard */,
 				007A763B208DE1A0009E75F5 /* Info.plist */,
 				007A7633208DE19C009E75F5 /* GTExample.xcdatamodeld */,
+				007A7641208DFCAC009E75F5 /* MapForItinary.swift */,
 			);
 			path = GTExample;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				007A762F208DE19C009E75F5 /* ViewController.swift in Sources */,
 				007A7635208DE19C009E75F5 /* GTExample.xcdatamodeld in Sources */,
 				007A762D208DE19C009E75F5 /* AppDelegate.swift in Sources */,
+				007A7642208DFCAC009E75F5 /* MapForItinary.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
